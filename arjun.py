@@ -1,2 +1,3 @@
-print('hello worldcmd')
-print('sanddep is codercode')
+print('hello world')
+print('sanedep is codercode')
+
